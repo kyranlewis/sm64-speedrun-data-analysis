@@ -14,7 +14,7 @@ Super Mario 64 is about collecting stars then beating the final boss of the game
 - 1 Star
 - 0 Star
 
-The second factor, was the different console types players may use. For speedrun.com, there are three specific ways players can play Super Mario 64;
+The second factor, was the different platforms players may use. For speedrun.com, there are three platforms players can play Super Mario 64;
 
 - Nintendo 64 Original Hardware
 - Virtual Console (This version was a re-release of the game for the Nintendo Wii)
