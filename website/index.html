@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 5B</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"></script>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+
+        <div class="chartDiv2">
+
+            <div class="infoDiv" id="gameInfo">
+                <div id="infoLogo">
+                    <img id="gameLogo" src="" alt="">
+                </div>
+                <div id="gameTitle">
+                    
+                </div>
+            </div>
+            <div class="infoDiv" id="categoryInfo">
+                <header>Current Category</header>
+                <div id="categoryTitle">
+                    120 Star
+                </div>
+                <div id="totalRuns">
+                    Total Runs:
+                </div>
+            </div>
+            <div class="infoDiv" id="dashboardButtonDiv">
+                <div id="Buttons">
+                    <button class="dashboardButtons" id="Previous">PREV</button>
+                    <button class="dashboardButtons" id="Refresh">REFRESH</button>
+                    <button class="dashboardButtons" id="Next">NEXT</button>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="chartDiv">
+
+            <div id="chartContent">
+
+                <div class="chartDivSplit">
+
+                    <div class="chartArea">
+                        <header class="chartHeader">Top Ten Leaders per Platform (Minutes)</header>
+                        <div class="chartHolder">
+                            <canvas id="topTenLeaders"></canvas>
+                        </div>
+                    </div>
+
+
+                    <div class="chartArea">
+                        <header class="chartHeader">Average Run Times per Platform (Minutes)</header>
+                        <div class="chartHolder">
+                            <canvas id="averageRuntimes"></canvas>
+                        </div>
+                    </div>
+
+                </div>
+        
+
+
+                <div class="chartDivSplit">
+                    <div class="chartArea">
+                        <header class="chartHeader">Players per Platform</header>
+                        <div class="chartHolder">
+                            <canvas id="platformChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="chartArea">
+                        <header class="chartHeader">Record Duration per Platform (Years)</header>
+                        <div class="chartHolder">
+                            <canvas id="recordDaysCounter"></canvas>
+                        </div>
+                    </div>
+                </div>      
+
+
+            </div>     
+        </div>
+
+        
+    </main>
+
+    <script src="main.js"></script> 
+</body>
+</html>

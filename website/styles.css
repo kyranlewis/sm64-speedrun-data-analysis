@@ -1,0 +1,190 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+main {
+    height: 90%;
+    width: 80%;
+    display: flex;
+    background-color: rgb(150, 0, 0);
+    padding: 15px;
+}
+
+.chartDiv2 {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-right: 5px;
+}
+
+.infoDiv {
+    height: 30%;
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+}
+
+#gameInfo {
+    display: flex;
+}
+
+#gameTitle {
+    width: 70%;
+    height: 100%;
+    text-align: center;
+    line-height: 20vh;
+    font-size: 5vh;
+    word-wrap: break-word;
+}
+
+#infoLogo {
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 5px;
+}
+
+#infoLogo img {
+    height: 85%;
+    width: auto;
+    object-fit: contain;
+}
+
+#categoryInfo header {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    font-size: 2vh;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+
+#categoryTitle {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    font-size: 6vh;
+    line-height: 1.3;
+    word-wrap: break-word;
+}
+
+#totalRuns {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    font-size: 3vh;
+    line-height: 1vh;
+    word-wrap: break-word;
+}
+
+.chartDiv {
+    display: flex;
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+}
+
+#chartContent {
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: right;
+}
+
+.chartDivSplit {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 10px;
+}
+
+.chartArea {
+    width: 95%;
+    height: 45%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 5px;    
+}
+
+.chartHolder {
+    width: 100%;
+    height: 87%;
+}
+
+.chartHeader {
+    width: 100%;
+    height: 10%;
+    font-size: 2vh;
+    line-height: 1.8;
+}
+
+#dashboardButtonDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#Buttons {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.dashboardButtons {
+    height: 60%;
+    width: 25%;
+    font-size: 3vh;
+
+    border-radius: 9px;
+    color: white;
+    border: 0px;
+    transition: background-color .1s ease;
+}
+
+
+#Previous {
+    background-color: rgb(150, 0, 0);
+}
+
+#Refresh {
+    background-color: rgb(0, 0, 150);
+}
+
+#Next {
+    background-color: rgb(0, 150, 0);
+}
+
+
+
+#Previous:active {
+    background-color: rgb(60, 0, 0);
+}
+
+#Next:active {
+    background-color: rgb(0, 60, 0);
+}
+
+#Refresh:active {
+    background-color: rgb(0, 0, 60);
+}
+
