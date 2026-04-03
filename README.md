@@ -58,10 +58,5 @@ I have chosen to display the category data for *16 Star*, as it is the most popu
 - CSS
 - JavaScript
 - API Implementation (https://github.com/speedruncomorg/api/tree/master/version1)
-
-
-Library: Chart.js, https://www.chartjs.org/
-
-Speedrun Website: https://www.speedrun.com/sm64
-
-API: https://github.com/speedruncomorg/api/tree/master/version1
+- chart.js Library (https://www.chartjs.org/)
+- speedrun.com Data Source (https://www.speedrun.com/sm64
