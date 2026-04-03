@@ -32,9 +32,8 @@ With these factors, the questions that I wanted to answer for myself were as fol
 - What are the average run times per platform?
 - How long have each platform's record withstood for?
 
-
 On the website I have created, you can click through the different categories. Here is an example of what the website looks like
-
+![16Star](images/16star.png)
 
 Library: Chart.js, https://www.chartjs.org/
 Speedrun Website: https://www.speedrun.com/sm64
