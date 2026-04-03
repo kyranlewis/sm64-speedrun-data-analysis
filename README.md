@@ -43,13 +43,21 @@ On the website, users can navigate through the different categories, with every 
 
 I have chosen to display the category data for *16 Star*, as it is the most popular category for speedrunning in Super Mario 64.
 
-## Key Insights of 16 Star
+## Key Insights (16 Star Category)
 
 - Virtual Console Top-10 times are longer, but the player count of virtual console is overwhelmed by Emulation and Nintendo 64.
 
 - Emulation has a majority over both Nintendo 64 and Virtual Console platforms, this could be due to the easy access emulation provides as you don't need official console hardware to play the game, just a copy of the game files on your computer and the emulator itself.
 
 - Even with Emulation having a major player advantage, Nintendo 64 still has the fastest times recorded for the category. This is due to most top professional video game speed runners like to use official hardware for practicing their runs and authenticity in the games that they play.
+
+
+
+### Tools used for website
+- HTML
+- CSS
+- JavaScript
+- API Implementation (https://github.com/speedruncomorg/api/tree/master/version1)
 
 
 Library: Chart.js, https://www.chartjs.org/
