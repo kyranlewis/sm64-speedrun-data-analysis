@@ -24,7 +24,7 @@ The reason the console type matters and all have their own separate leaderboards
 
 Emulation will normally run Super Mario 64 at the fastest framerate, which will give players who use emulation an advantage over those on original hardware, as typically original hardware runs on slower framerates than emulation and Virtual Console. 
 
-Here is reference for what the speedrun.com website looks like, displaying categories and platforms.
+Here is reference for what speedrun.com website looks like, displaying categories and platforms.
 
 ![SpeedRunCom](images/speedruncom.png)
 
