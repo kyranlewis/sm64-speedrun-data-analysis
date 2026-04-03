@@ -1,6 +1,6 @@
 # Super Mario 64 Speedrun Data Analysis
 
-For my final project in JavaScript, I was tasked to create a website utilizing a public charting library, and creating a data analysis dashboard using this library.
+For my final project in JavaScript, I was tasked to create a website utilizing a public charting library, and creating a data analysis dashboard using this library using four different chart types.
 
 This project focuses on video game speedrunning data, specifically Super Mario 64, one of the most popular speedrun titles.
 Speedrun.com has its own public API that can be used to retrieve data based on Game ID's, so I found what the ID was specifically for the game of choice.
