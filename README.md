@@ -37,5 +37,7 @@ On the website I have created, you can click through the different categories. H
 ![16Star](images/16star.png)
 
 Library: Chart.js, https://www.chartjs.org/
+
 Speedrun Website: https://www.speedrun.com/sm64
+
 API: https://github.com/speedruncomorg/api/tree/master/version1
