@@ -52,6 +52,9 @@ I have chosen to display the category data for *16 Star*, as it is the most popu
 - Even with Emulation having a major player advantage, Nintendo 64 still has the fastest times recorded for the category. This is due to most top professional video game speed runners like to use official hardware for practicing their runs and authenticity in the games that they play.
 
 
+## Overall Outcome
+The project successfully demonstrates how platform choice impacts speedrun performance and player distribution. It highlights that while emulation increases accessibility and player count, top performance is still dominated by players using original hardware.
+
 
 ### Tools used for website
 - HTML
