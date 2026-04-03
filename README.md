@@ -32,6 +32,8 @@ With these factors, the questions that I wanted to answer for myself were as fol
 - What are the average run times per platform?
 - How long have each platform's record withstood for?
 
+
+
 On the website, users can navigate through the different categories. Here is an example of what the website looks like
 
 ![16Star](images/16star.png)
