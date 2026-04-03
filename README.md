@@ -37,8 +37,8 @@ With these factors, the questions that I wanted to answer for myself were as fol
 
 
 On the website, users can navigate through the different categories, with every chart updating dynamically on the category change. 
-Here is the final product.
 
+# Final Product
 ![16Star](images/16star.png)
 
 Library: Chart.js, https://www.chartjs.org/
